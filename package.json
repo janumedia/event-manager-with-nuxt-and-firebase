@@ -1,0 +1,29 @@
+{
+    "name": "event-manager-with-nuxt-and-firebase",
+    "description": "Event Manager using Nuxt and Firebase",
+    "version": "0.0.1",
+    "author": "I Nengah Januartha",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/janumedia/event-manager-with-nuxt-and-firebase.git"
+    },
+    "license": "ISC",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "axios": "^0.18.0",
+        "babel-polyfill": "^6.26.0",
+        "cookieparser": "^0.1.0",
+        "firebase": "^4.13.1",
+        "js-cookie": "^2.2.0",
+        "nuxt": "^1.4.0",
+        "vuetify": "^1.0.17"
+    },
+    "devDependencies": {
+        "node-sass": "^4.9.0",
+        "sass-loader": "^7.0.1"
+    }
+}
