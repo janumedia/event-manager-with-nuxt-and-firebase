@@ -23,7 +23,7 @@
         "vuetify": "^1.0.17"
     },
     "devDependencies": {
-        "node-sass": "^4.9.0",
+        "node-sass": "https://github.com/sass/node-sass/archive/v4.7.0.tar.gz",
         "sass-loader": "^7.0.1"
     }
 }
